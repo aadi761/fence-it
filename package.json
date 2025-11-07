@@ -1,0 +1,6 @@
+{
+  "name": "location-notifier",
+  "version": "1.0.0",
+  "description": "Location Notifier Demo - Geo-fence notification system",
+  "private": true
+}
