@@ -1,0 +1,6 @@
+html,body,#root { height:100%; margin:0; font-family: Arial, sans-serif; }
+.app { display:flex; height:100vh; }
+.mapPane { flex:1; }
+/* sidePane removed for full-screen map */
+.leaflet-container { height:100%; width:100%; }
+button { cursor:pointer; }
