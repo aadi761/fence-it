@@ -18,4 +18,4 @@ services:
       - key: VAPID_SUBJECT
         sync: false
       - key: CORS_ORIGIN
-        sync: false
+        value: https://fence-it.vercel.app
